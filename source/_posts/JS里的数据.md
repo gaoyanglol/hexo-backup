@@ -153,6 +153,7 @@ tags: 学习笔记
         married : true,
         children: {name: 'xxx', age: 1}
       }
+    ```
 * 取值方式 1
     ```javascript 
     // 中括号取值必须加引号
